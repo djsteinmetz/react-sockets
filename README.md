@@ -1,2 +1,2 @@
-# Status Tracket
+# Status Tracker
 Status tracker for employees
