@@ -1,0 +1,81 @@
+* {
+    font-family: 'Roboto', sans-serif!Important;
+}
+.In {
+    border-radius: 180px;
+    border: 1px solid #0b6527;
+    width: 100px;
+    background-color: #17863a4a;
+    color: #0b6527;
+}
+.Office.Mtg {
+    border-radius: 180px;
+    border: 1px solid #cfcc07;
+    width: 120px;
+    background-color: #f1ef4728;
+    color: #cfcc07;
+}
+.Location.Mtg {
+    border-radius: 180px;
+    border: 1px solid #0775cf;
+    width: 120px;
+    background-color: #0775cf23;
+    color: #0775cf;
+}
+.Working.Remotely {
+    border-radius: 180px;
+    border: 1px solid #0b5765;
+    width: 165px;
+    background-color: #18708042;
+    color: #0b5765;
+}
+.Lunch {
+    border-radius: 180px;
+    border: 1px solid #d6801e;
+    width: 60px;
+    background-color: #ff88004d;
+    color: #d6801e;
+}
+.Out {
+    border-radius: 180px;
+    border: 1px solid #A7A7A7;
+    width: 60px;
+    background-color: #E7E7E7;
+    color: #A7A7A7;
+}
+.userSearch {
+    margin: 25px 0px 25px 0px;
+    max-width: 350px;
+}
+.userList {
+    padding: 15px;
+}
+.odd {
+    background-color: #f1f1f1;
+}
+.timestamp {
+    font-size: 12px;
+    margin-top: -20px;
+    color: #A7A7A7;
+}
+.currentUser {
+    padding: 25px 0px 25px 0px;
+    /* background-color: #0b576531; */
+}
+.currentName {
+    font-size: 24px;
+    font-weight: 600;
+    color: #0b5765;
+}
+.allUserName {
+    font-size: 18px;
+    font-weight: 400;
+}
+.note {
+    font-weight: 300;
+    font-size: 15px;
+    margin-top: -5px;
+}
+.card {
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.1);
+}
